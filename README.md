@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # weather_forcast_app
 
 A new Flutter project.
